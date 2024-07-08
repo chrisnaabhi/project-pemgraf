@@ -1,0 +1,13 @@
+html, body {
+  margin: 0;
+  padding: 0;
+}
+
+canvas {
+  display: block;
+}
+.gambar{
+  background: url(a.jpg);
+  background-size: 100px 80px;
+  background-repeat: no-repeat;
+}
